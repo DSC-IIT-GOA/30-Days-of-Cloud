@@ -27,6 +27,6 @@ Track 2: Data Science & Machine Learning Track
 - Google Cloud T-shirt👕
 - Laptop bag
 - Water bottle
-<img src="Resources/images/Reward.png" width="100%">
+<img src="https://github.com/gCloudNith/30Days-of-GCP/blob/master/Resources/images/Reward.png" width="100%">
 <br>
 <p align="center">show some ❤️&nbsp; by giving a star to this repo!!</p>
