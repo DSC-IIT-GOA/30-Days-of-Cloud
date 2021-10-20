@@ -29,4 +29,4 @@ Track 2: Data Science & Machine Learning Track
 - Water bottle
 <img src="https://github.com/gCloudNith/30Days-of-GCP/blob/master/Resources/images/Reward.png" width="100%">
 <br>
-<p align="center">show some ❤️&nbsp; by giving a star to this repo!!</p>
+<p align="center">Show some ❤️&nbsp; by giving a star to this repo!!</p>
